@@ -40,10 +40,10 @@ Expenses
 - expensesPart.php
 
 Main Pages
-mainpage.php – Main landing page
-login.php
-login.html
-logout.php
+- mainpage.php – Main landing page
+- login.php
+- login.html
+- logout.php
 
 Other
 - chartss.js – Charts and data visualization
